@@ -11,6 +11,7 @@ Botの名前を自由に決めて作成してください<br>
 (Botの作成が分からない方は[こちら](https://discordpy.readthedocs.io/ja/latest/discord.html)のサイトを参考にしてください)<br>
 BotのTokenが取得出来たら`config.json`の`token`の項目へ入れてください<br>
 これでRunするとBotが起動するはずです
+分からないことなどは[Discordサーバー](https://tel1hor.tel1horjp.repl.co/tel1horserver.html)で質問してください
 
 ### APIKeyについて
 `stats`コマンドを使用するためには[Fortnite-api.com](https://fortnite-api.com/)のAPIKeyが必要です<br>
